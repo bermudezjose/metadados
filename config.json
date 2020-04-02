@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        294,
+        6400
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/bermudezjose/metadados/master/feat_covid2.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/bermudezjose/metadados/master/covid_metadata.tsv"
+    }
+  ]
+}
