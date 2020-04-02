@@ -8,7 +8,7 @@
       ],
       "tensorPath": "https://raw.githubusercontent.com/bermudezjose/metadados/master/feat_covid.tsv",
       "metadataPath": "https://raw.githubusercontent.com/bermudezjose/metadados/master/covid_metadata.tsv",
-      "bookmarksPath": "https://raw.githubusercontent.com/.../bookmarks.txt",
+      "bookmarksPath": "https://raw.githubusercontent.com/bermudezjose/metadados/master/state.txt",
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/bermudezjose/metadados/master/sprite_covid_image.png",
         "singleImageDim": [
