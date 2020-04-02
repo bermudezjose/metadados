@@ -6,7 +6,7 @@
         294,
         6400
       ],
-      "tensorPath": "https://raw.githubusercontent.com/bermudezjose/metadados/master/feat_covid2.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/bermudezjose/metadados/master/feat_covid.tsv",
       "metadataPath": "https://raw.githubusercontent.com/bermudezjose/metadados/master/covid_metadata.tsv"
     }
   ]
