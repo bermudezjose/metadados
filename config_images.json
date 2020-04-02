@@ -9,7 +9,7 @@
       "tensorPath": "https://raw.githubusercontent.com/bermudezjose/metadados/master/feat_covid2.tsv",
       "metadataPath": "https://raw.githubusercontent.com/bermudezjose/metadados/master/covid_metadata.tsv",
       "sprite": {
-        "imagePath": "https://github.com/.../optional.sprite.png",
+        "imagePath": "https://raw.githubusercontent.com/bermudezjose/metadados/master/sprite_covid_image.png",
         "singleImageDim": [
           224,
           224
